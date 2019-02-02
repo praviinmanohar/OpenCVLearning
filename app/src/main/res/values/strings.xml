@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">7SegmentOpenCV</string>
+    <string name="normal">Normal</string>
+    <string name="canny">Canny</string>
+    <string name="gray">Gray</string>
+    <string name="test" />
+</resources>
